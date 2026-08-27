@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Adri 👋
 
-<!--
-**Adriiiii24/Adriiiii24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Developer & Software Engineer | Soluciones de IA, Integración de Modelos y Automatización**
 
-Here are some ideas to get you started:
+Trabajo en el desarrollo de soluciones prácticas basadas en Inteligencia Artificial, integrando diversos modelos y automatizando flujos de trabajo. Me apasiona el diseño de arquitecturas eficientes y la creación de proyectos visuales e interactivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+*   **Desarrollo:** Python, Git, GitHub
+*   **IA & Datos:** Integración de Modelos, Sistemas RAG, MCP
+*   **Cloud & Bases de Datos:** Google Cloud Platform (GCP), Supabase
+
+### 🚀 ¿En qué estoy trabajando actualmente?
+*   💼 Desarrollando e integrando soluciones de Inteligencia Artificial en **AyGLOO**.
+*   🏗️ Construyendo mi portfolio interactivo impulsado por IA.
+*   🤖 Diseñando **ImaginarIA**, un chatbot interactivo de brainstorming, y explorando sistemas RAG.
+
+### 📫 Conecta conmigo
+*   [LinkedIn](https://www.linkedin.com/in/adrián-martínez-panés/)
+*   [Hugging Face](https://huggingface.co/Adriiiii24)
